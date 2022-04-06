@@ -1,0 +1,12 @@
+{
+    "user1_valid" : {
+      "firstName": "Test",
+      "lastName": "User",
+      "postcode": "NW97RF"
+    },
+    "user2_empty_fields" : {
+        "firstName": "",
+        "lastName": "",
+        "postcode": ""
+    } 
+  }
